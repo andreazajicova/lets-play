@@ -1,6 +1,6 @@
 # lets-play
 
-## Project setup
+## To run this project
 ```
 npm i
 ```
