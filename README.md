@@ -2,23 +2,11 @@
 
 ## Project setup
 ```
-yarn install
+npm i
+```
+```
+npm run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Working on a music app created with Vue. A place where you can store all your fav songs. 
+Having fun with Vue.js and Vuetify.js 💫🦄
